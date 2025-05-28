@@ -1,6 +1,6 @@
 title: DeepCall Docs
 description: Documentation for the DeepCall AI mystery shopper platform
-theme: just-the-docs
+theme: jekyll-theme-cayman
 color_scheme: deepcall
 
 # Optional: Use relative links
