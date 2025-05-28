@@ -15,6 +15,7 @@ Co-founder, Technical Lead
 📍 Based in UK  
 🚗 Background in AI & Software Development @ Jaguar Land Rover  
 💡 Built DeepCall's MVP and backend infrastructure  
+💬 *"I believe voice AI will revolutionize how we connect with customers."*  
 <a href="https://www.linkedin.com/in/hatemalabsi/" target="_blank" style="display:inline-block; margin-top:8px; background-color:#7446E8; color:white; padding:6px 12px; border-radius:6px; text-decoration:none; font-weight:600;">View LinkedIn</a>
 
 ### Shaurya Verma
@@ -23,7 +24,15 @@ Co-founder, Strategy & Ops
 📍 Based in India  
 🚗 Background in Customer Experience & Mystery Shopping @ Jaguar Land Rover  
 🎯 Leading partnerships, product strategy, and outreach  
+💬 *"Customer experience is the heart of every successful business."*  
 <a href="https://www.linkedin.com/in/shaurya-verma-8286571b4/" target="_blank" style="display:inline-block; margin-top:8px; background-color:#7446E8; color:white; padding:6px 12px; border-radius:6px; text-decoration:none; font-weight:600;">View LinkedIn</a>
+
+---
+
+## Join Us
+
+We're always looking for passionate individuals to join the DeepCall journey. Whether you're into AI, product, or customer success, we'd love to hear from you!  
+<a href="mailto:careers@deepcall.io" target="_blank" style="display:inline-block; margin-top:12px; background-color:#7446E8; color:white; padding:10px 20px; border-radius:6px; text-decoration:none; font-weight:600;">Get in Touch</a>
 
 <footer class="deepcall-footer">
   <div class="footer-inner">
