@@ -6,9 +6,19 @@ body {
   color: #2e2e2e;
 }
 
+/* Header font for all headers */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Plus Jakarta Sans', sans-serif;
-  color: #ffffff;
+}
+
+/* Ensure all headers in main-content are DeepCall purple */
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6 {
+  color: #7446E8 !important;
 }
 
 a {
