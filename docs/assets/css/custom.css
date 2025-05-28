@@ -85,3 +85,7 @@ a {
   font-family: 'Inter', sans-serif;
   color: white;
 }
+
+footer[role="contentinfo"] {
+  display: none !important;
+}
