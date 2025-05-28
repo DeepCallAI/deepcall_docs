@@ -22,8 +22,7 @@ body.dark-mode {
 }
 
 /* Optional: Navbar adjustments for dark mode */
-body.dark-mode .navbar,
-body.dark-mode .deepcall-footer {
+body.dark-mode .navbar {
   background-color: #2A2540;
 }
 
@@ -34,6 +33,11 @@ body.dark-mode .deepcall-footer a {
 
 body.dark-mode .navbar a:hover {
   color: #ffffff !important;
+}
+
+.site-header.dark-mode {
+  background-color: #2A2540 !important;
+  border-bottom: 3px solid #000000;
 }
 
 /* Header font for all headers */
@@ -121,8 +125,7 @@ footer[role="contentinfo"] {
 }
 
 .deepcall-footer {
-  background-color: #7446E8;
-  color: white;
+  color: #7446E8;
   text-align: center;
   padding: 30px 20px;
   margin-top: 60px;
@@ -131,7 +134,7 @@ footer[role="contentinfo"] {
 }
 
 .deepcall-footer a {
-  color: #DBCFFA;
+  color: #b9a2f2;
   text-decoration: none;
   margin: 0 8px;
 }
@@ -143,4 +146,8 @@ footer[role="contentinfo"] {
 .footer-inner {
   max-width: 960px;
   margin: 0 auto;
+}
+
+footer[role="contentinfo"] {
+  display: none !important;
 }
