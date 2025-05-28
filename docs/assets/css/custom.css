@@ -35,12 +35,7 @@ body.dark-mode .navbar a:hover {
   color: #ffffff !important;
 }
 
-.site-header.dark-mode {
-  background-color: #2A2540 !important;
-  border-bottom: 3px solid #000000;
-}
-
-.page-header.dark-mode {
+body.dark-mode .page-header {
   background-color: #2A2540 !important;
   background-image: none !important;
   color: white !important;
@@ -110,7 +105,7 @@ a {
 }
 
 .page-header {
-  background-color: #7446E8 !important;
+  background-color: #7446E8;
   background-image: none !important;
   color: white !important;
   padding: 2rem 1rem;
