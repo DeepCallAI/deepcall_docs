@@ -1,3 +1,13 @@
+<script>
+  (function() {
+    try {
+      const darkPref = localStorage.getItem('theme') === 'dark';
+      if (darkPref) {
+        document.documentElement.classList.add('dark-mode');
+      }
+    } catch(e) {}
+  })();
+</script>
 <!-- This gets auto-included if you set `include` path in _config.yml -->
 <link rel="stylesheet" href="/assets/css/custom.css">
 <link rel="icon" href="/assets/images/deepcall.svg" type="image/x-icon">
