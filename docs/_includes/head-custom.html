@@ -1,3 +1,9 @@
+<script>
+  // Apply dark mode class before rendering
+  if (localStorage.getItem('darkMode') === 'true') {
+    document.documentElement.classList.add('dark-mode');
+  }
+</script>
 <!-- This gets auto-included if you set `include` path in _config.yml -->
 <link rel="stylesheet" href="/assets/css/custom.css">
 <link rel="icon" href="/assets/images/deepcall.svg" type="image/x-icon">
@@ -17,14 +23,14 @@
 
 <script>
   function toggleDarkMode() {
-    document.body.classList.toggle('dark-mode');
-    localStorage.setItem('darkMode', document.body.classList.contains('dark-mode'));
+    document.documentElement.classList.toggle('dark-mode');
+    localStorage.setItem('darkMode', document.documentElement.classList.contains('dark-mode'));
   }
 
   // Load preference on page load
   window.onload = function() {
     if (localStorage.getItem('darkMode') === 'true') {
-      document.body.classList.add('dark-mode');
+      document.documentElement.classList.add('dark-mode');
     }
   };
 </script>
