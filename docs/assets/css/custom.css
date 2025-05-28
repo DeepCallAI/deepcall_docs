@@ -42,3 +42,22 @@ a {
 .navbar a:hover {
   text-decoration: underline;
 }
+
+.page-header {
+  background-color: #7446E8 !important; /* DeepCall Primary */
+  color: white !important;
+  padding: 2rem 1rem;
+  text-align: center;
+  border-bottom: 3px solid #DBCFFA;
+}
+
+.page-header h1,
+.page-header h2 {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  color: white;
+}
+
+.page-header p {
+  font-family: 'Inter', sans-serif;
+  color: white;
+}
