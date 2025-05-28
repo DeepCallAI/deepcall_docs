@@ -1,3 +1,10 @@
+---
+layout: default
+title: Our Team
+nav_order: 4
+description: Meet the DeepCall team
+---
+
 # Meet the DeepCall Team
 
 We're a team of entrepreneurs passionate about voice AI and customer experience.

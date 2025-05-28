@@ -1,3 +1,10 @@
+---
+layout: default
+title: Dashboard Guide
+nav_order: 3
+description: Learn how to use the DeepCall dashboard and understand reports
+---
+
 # Dashboard Guide
 
 Welcome to your DeepCall Dashboard. This is where all your call data, insights, and performance scores live.

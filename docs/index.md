@@ -1,3 +1,10 @@
+---
+layout: default
+title: Welcome
+nav_order: 1
+description: Introduction to DeepCall – what it is, how it works, and why it matters
+---
+
 # Welcome to DeepCall
 
 **DeepCall** is an AI-powered voice mystery shopper platform. We simulate real customer calls to assess customer service, measure compliance, and generate structured insights — automatically.

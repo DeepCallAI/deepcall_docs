@@ -1,3 +1,10 @@
+---
+layout: default
+title: FAQ
+nav_order: 5
+description: Frequently asked questions about DeepCall
+---
+
 # Frequently Asked Questions
 
 ## How is DeepCall different from traditional mystery shopping?

@@ -1,20 +1,10 @@
 title: DeepCall Docs
 description: Documentation for the DeepCall AI mystery shopper platform
-theme: minima
+theme: just-the-docs
+color_scheme: deepcall
+
+# Optional: Use relative links
 markdown: kramdown
-
-# Optional: Enable custom CSS
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "default"
-
-# Optional: include custom CSS in head
-include:
-  - _includes/custom.css
-
 plugins:
   - jekyll-relative-links
 
@@ -22,9 +12,6 @@ relative_links:
   enabled: true
   collections: true
 
-# Optional: exclude files from build
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
+# Enable GitHub Pages
+github:
+  is_project_page: false

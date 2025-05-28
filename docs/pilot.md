@@ -1,3 +1,10 @@
+---
+layout: default
+title: Pilot Program
+nav_order: 2
+description: Learn how the DeepCall pilot works and how to join
+---
+
 # DeepCall Pilot Program
 
 We're currently running a pilot to test and refine DeepCall in real-world conditions.
