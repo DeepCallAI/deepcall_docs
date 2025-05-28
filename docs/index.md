@@ -18,3 +18,10 @@ Whether you’re a small business or a global chain, DeepCall helps you hear wha
 
 ➡️ Learn more about the [pilot program](pilot.md)  
 ➡️ Need help? [Dashboard guide](dashboard-guide.md)
+
+<footer class="deepcall-footer">
+  <div class="footer-inner">
+    <p>© {{ site.time | date: '%Y' }} DeepCall. All rights reserved.</p>
+    <p><a href="mailto:contact@deepcall.io">Contact Us</a> | <a href="/">Back to Home</a></p>
+  </div>
+</footer>

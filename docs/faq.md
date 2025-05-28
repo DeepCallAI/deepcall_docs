@@ -18,3 +18,10 @@ No — our AI voices pass realism tests and are designed to sound natural, polit
 
 ## Is it legal?
 Yes. All calls comply with local recording laws and customer consent rules. We never store personal data from live customers.
+
+<footer class="deepcall-footer">
+  <div class="footer-inner">
+    <p>© {{ site.time | date: '%Y' }} DeepCall. All rights reserved.</p>
+    <p><a href="mailto:contact@deepcall.io">Contact Us</a> | <a href="/">Back to Home</a></p>
+  </div>
+</footer>

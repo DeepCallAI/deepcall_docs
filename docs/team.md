@@ -24,3 +24,10 @@ Co-founder, Strategy & Ops
 🚗 Background in Customer Experience & Mystery Shopping @ Jaguar Land Rover  
 🎯 Leading partnerships, product strategy, and outreach  
 <a href="https://www.linkedin.com/in/shaurya-verma-8286571b4/" target="_blank" style="display:inline-block; margin-top:8px; background-color:#7446E8; color:white; padding:6px 12px; border-radius:6px; text-decoration:none; font-weight:600;">View LinkedIn</a>
+
+<footer class="deepcall-footer">
+  <div class="footer-inner">
+    <p>© {{ site.time | date: '%Y' }} DeepCall. All rights reserved.</p>
+    <p><a href="mailto:contact@deepcall.io">Contact Us</a> | <a href="/">Back to Home</a></p>
+  </div>
+</footer>

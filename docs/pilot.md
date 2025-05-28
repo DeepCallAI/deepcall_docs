@@ -19,4 +19,9 @@ We're currently running a pilot to test and refine DeepCall in real-world condit
 - Real-time AI-generated insights
 - A summary report at the end of the pilot
 
-Contact us to join: [contact@deepcall.io](mailto:contact@deepcall.io)
+<footer class="deepcall-footer">
+  <div class="footer-inner">
+    <p>© {{ site.time | date: '%Y' }} DeepCall. All rights reserved.</p>
+    <p><a href="mailto:contact@deepcall.io">Contact Us</a> | <a href="/">Back to Home</a></p>
+  </div>
+</footer>

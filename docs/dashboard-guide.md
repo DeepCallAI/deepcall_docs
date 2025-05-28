@@ -26,4 +26,9 @@ Each call is analyzed for:
 
 Hover over icons to get full explanations per metric.
 
-Need help? [Email us](mailto:support@deepcall.io)
+<footer class="deepcall-footer">
+  <div class="footer-inner">
+    <p>© {{ site.time | date: '%Y' }} DeepCall. All rights reserved.</p>
+    <p><a href="mailto:contact@deepcall.io">Contact Us</a> | <a href="/">Back to Home</a></p>
+  </div>
+</footer>
