@@ -21,13 +21,13 @@ body, .navbar, .page-header, .deepcall-footer {
 }
 
 body.dark-mode {
-  --bg-color: #1E1B26;
+  --bg-color: #2A2540;
   --text-color: #ffffff;
 }
 
 /* Optional: Navbar adjustments for dark mode */
 body.dark-mode .navbar {
-  background-color: #2A2540;
+  background-color: #1E1B26;
 }
 
 body.dark-mode .navbar a,
@@ -40,7 +40,7 @@ body.dark-mode .navbar a:hover {
 }
 
 body.dark-mode .page-header {
-  background-color: #2A2540 !important;
+  background-color: #1E1B26 !important;
   background-image: none !important;
   color: white !important;
   padding: 2rem 1rem;
