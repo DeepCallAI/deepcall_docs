@@ -16,6 +16,10 @@ body {
   color: var(--text-color);
 }
 
+body, .navbar, .page-header, .deepcall-footer {
+  transition: background-color 0.4s ease, color 0.4s ease, border-color 0.4s ease;
+}
+
 body.dark-mode {
   --bg-color: #1E1B26;
   --text-color: #ffffff;
