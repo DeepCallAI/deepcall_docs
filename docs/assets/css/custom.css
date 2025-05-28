@@ -20,26 +20,26 @@ body, .navbar, .page-header, .deepcall-footer {
   transition: background-color 0.4s ease, color 0.4s ease, border-color 0.4s ease;
 }
 
-html.dark-mode {
+body.dark-mode {
   --bg-color: #2A2540;
   --text-color: #ffffff;
 }
 
 /* Optional: Navbar adjustments for dark mode */
-html.dark-mode .navbar {
+body.dark-mode .navbar {
   background-color: #1E1B26;
 }
 
-html.dark-mode .navbar a,
-html.dark-mode .deepcall-footer a {
+body.dark-mode .navbar a,
+body.dark-mode .deepcall-footer a {
   color: #DBCFFA !important;
 }
 
-html.dark-mode .navbar a:hover {
+body.dark-mode .navbar a:hover {
   color: #ffffff !important;
 }
 
-html.dark-mode .page-header {
+body.dark-mode .page-header {
   background-color: #1E1B26 !important;
   background-image: none !important;
   color: white !important;
