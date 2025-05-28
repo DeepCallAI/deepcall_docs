@@ -15,3 +15,6 @@ relative_links:
 # Enable GitHub Pages
 github:
   is_project_page: false
+
+include:
+  - _includes/head-custom.html
