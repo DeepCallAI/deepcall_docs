@@ -44,7 +44,8 @@ a {
 }
 
 .page-header {
-  background-color: #7446E8 !important; /* DeepCall Primary */
+  background-color: #7446E8 !important;
+  background-image: none !important;
   color: white !important;
   padding: 2rem 1rem;
   text-align: center;
