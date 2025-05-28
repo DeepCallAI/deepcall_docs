@@ -30,21 +30,10 @@ Whether you’re a small business or a global chain, DeepCall helps you hear wha
 
 ## See DeepCall in Action
 
-<div class="cta-block" style="border: 2px solid #007acc; padding: 20px; margin: 20px 0; border-radius: 8px; background-color: #f0f8ff;">
+<div class="cta-block" style="border: 2px solid #7446E8; padding: 20px; margin: 20px 0; border-radius: 8px;">
   <h2>Ready to transform your customer insights?</h2>
-  <p>Join our <a href="pilot.md" style="color: #007acc; font-weight: bold;">Pilot Program</a> today and experience DeepCall firsthand.</p>
-  <a href="pilot.md" class="btn btn-primary" style="padding: 10px 20px; background-color: #007acc; color: white; border-radius: 4px; text-decoration: none;">Join the Pilot Program</a>
-</div>
-
----
-
-## Trusted by Leading Companies
-
-<div class="company-logos" style="display: flex; gap: 30px; align-items: center; margin: 20px 0;">
-  <img src="/assets/images/logo-company1.png" alt="Company 1 Logo" style="height: 40px;">
-  <img src="/assets/images/logo-company2.png" alt="Company 2 Logo" style="height: 40px;">
-  <img src="/assets/images/logo-company3.png" alt="Company 3 Logo" style="height: 40px;">
-  <img src="/assets/images/logo-company4.png" alt="Company 4 Logo" style="height: 40px;">
+  <p>Join our <a href="pilot.md" style="color: #7446E8; font-weight: bold;">Pilot Program</a> today and experience DeepCall firsthand.</p>
+  <a href="pilot.md" class="btn btn-primary" style="padding: 10px 20px; background-color: #7446E8; color: white; border-radius: 4px; text-decoration: none;">Join the Pilot Program</a>
 </div>
 
 ---
