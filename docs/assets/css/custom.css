@@ -89,3 +89,28 @@ a {
 footer[role="contentinfo"] {
   display: none !important;
 }
+
+.deepcall-footer {
+  background-color: #7446E8;
+  color: white;
+  text-align: center;
+  padding: 30px 20px;
+  margin-top: 60px;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.9rem;
+}
+
+.deepcall-footer a {
+  color: #DBCFFA;
+  text-decoration: none;
+  margin: 0 8px;
+}
+
+.deepcall-footer a:hover {
+  text-decoration: underline;
+}
+
+.footer-inner {
+  max-width: 960px;
+  margin: 0 auto;
+}
