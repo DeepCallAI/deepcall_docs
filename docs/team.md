@@ -33,10 +33,3 @@ Co-founder, Strategy & Ops
 
 We're always looking for passionate individuals to join the DeepCall journey. Whether you're into AI, product, or customer success, we'd love to hear from you!  
 <a href="mailto:careers@deepcall.io" target="_blank" style="display:inline-block; margin-top:12px; background-color:#7446E8; color:white; padding:10px 20px; border-radius:6px; text-decoration:none; font-weight:600;">Get in Touch</a>
-
-<footer class="deepcall-footer">
-  <div class="footer-inner">
-    <p>© {{ site.time | date: '%Y' }} DeepCall. All rights reserved.</p>
-    <p><a href="mailto:contact@deepcall.io">Contact Us</a> | <a href="/">Back to Home</a></p>
-  </div>
-</footer>

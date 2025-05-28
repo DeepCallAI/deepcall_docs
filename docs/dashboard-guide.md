@@ -49,10 +49,3 @@ Below are sample insight cards showing mock data visuals to help you interpret y
 - **Compliance Score**  
   Current: 92%  
   ![Compliance Score Gauge](/assets/images/compliance-score-gauge.png)
-
-<footer class="deepcall-footer">
-  <div class="footer-inner">
-    <p>© {{ site.time | date: '%Y' }} DeepCall. All rights reserved.</p>
-    <p><a href="mailto:contact@deepcall.io">Contact Us</a> | <a href="/">Back to Home</a></p>
-  </div>
-</footer>
