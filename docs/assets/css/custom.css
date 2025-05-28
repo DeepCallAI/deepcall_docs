@@ -52,14 +52,14 @@ a {
 .navbar a,
 .navbar a:link,
 .navbar a:visited {
-  color: white !important;
+  color: #725e8f7a !important;
   text-decoration: none;
   font-weight: 600;
   transition: color 0.2s ease;
 }
 
 .navbar a:hover {
-  color: #DBCFFA !important;
+  color: #ffffff !important;
 }
 
 .page-header {
