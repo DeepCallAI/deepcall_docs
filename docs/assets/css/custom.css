@@ -1,9 +1,39 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&family=Plus+Jakarta+Sans:wght@600&display=swap');
 
+:root {
+  --bg-color: #F6F2FF;
+  --text-color: #2e2e2e;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+
 body {
   font-family: 'Inter', sans-serif;
-  background-color: #F6F2FF;
-  color: #2e2e2e;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+
+body.dark-mode {
+  --bg-color: #1E1B26;
+  --text-color: #ffffff;
+}
+
+/* Optional: Navbar adjustments for dark mode */
+body.dark-mode .navbar,
+body.dark-mode .deepcall-footer {
+  background-color: #2A2540;
+}
+
+body.dark-mode .navbar a,
+body.dark-mode .deepcall-footer a {
+  color: #DBCFFA !important;
+}
+
+body.dark-mode .navbar a:hover {
+  color: #ffffff !important;
 }
 
 /* Header font for all headers */
