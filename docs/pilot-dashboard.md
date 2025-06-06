@@ -77,4 +77,4 @@ If you have questions or feedback during the pilot, please contact your DeepCall
 
 ---
 
-Ready to explore individual call details? Visit the [Calls Page Guide](pilot-calls.md) to learn how to dive deeper into call-level insights.
+Ready to explore individual call details? Visit the [Calls Page Guide](pilot-calls.md) to learn how to dive deeper into call-level insights or the [Settings Page Guide](pilot-settings.md) to learn how to manage your account and team during the pilot.

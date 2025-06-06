@@ -112,4 +112,4 @@ If you encounter issues or have questions, please contact your DeepCall pilot su
 
 ---
 
-Ready to get back to the overview? Visit the [Dashboard Home Page Guide](pilot-dashboard.md).
+Return to the [Settings Page Guide](pilot-settings.md) or [Dashboard Overview](pilot-dashboard.md).
